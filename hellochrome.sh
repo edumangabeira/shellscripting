@@ -2,5 +2,5 @@
 #useful when working with bots, for example,
 
 #!/bin/bash
-google-chrome --user-data-dir=/home/YourUserHere/.YourScriptLocal 
+google-chrome --user-data-dir=/home/YourUserHere/YourScriptDirectory 
 
